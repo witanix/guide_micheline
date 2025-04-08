@@ -1,0 +1,10 @@
+Cette application est destinée à être utilisée par des smartphone.
+Elle a pour objectif de proposer un restaurant où déjeuner avec les collègues en se basant sur une liste de restaurant
+stockée en base de données. 
+Ces restaurants ont été notés selon des critères propres aux collègues.
+La proposition doit prendre en compte la météo: 
+ si il fait soleil et que nous sommes au printemps ou en été alors proposées restaurant avec une bonne terrasse
+ si il pleut, le choix de la terrasse est inutile
+ Nous devons éviter de manger dans le même restaurant à la suite.
+Nous devons pouvoir changer les notes du restaurant.
+Ajouter des critères, les modifier ou supprimer.
